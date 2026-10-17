@@ -278,6 +278,8 @@ Detailed description of the skill's purpose.
 | [Obsidian Plugin](https://github.com/gapmiss/obsidian-plugin-skill) | Obsidian.md plugin development |
 | [FFUF Web Fuzzing](https://github.com/jthack/ffuf_claude_skill) | Web fuzzer integration for vulnerability analysis |
 | [move-code-quality-skill](https://github.com/1NickPappas/move-code-quality-skill) | Move language code quality checklist |
+| [AINDF screen author](https://github.com/0design/ai-native-design-framework/tree/main/plugin/skills/aindf-screen-author) | Compose and validate ScreenSpec JSON through a compatible AINDF design-system MCP. [Website](https://oleg.design/ai-native-design-framework) |
+| [UNSLOP audit](https://github.com/0design/unslop-skill/tree/main/skills/audit) | Audit generated UI against design-system contracts and pinned rules; write fix plans. Full canon-based audits require the plugin setup. [Website](https://oleg.design/unslop) |
 | [overhaul-ui](https://github.com/ShadowFull12/overhaul-ui) | Frontend design skill — 28 commands, WCAG 2.2/OKLCH/motion scripts, detects and defers to installed specialist design skills |
 | [pypict-claude-skill](https://github.com/omkamal/pypict-claude-skill) | Pairwise Independent Combinatorial Testing |
 | [claude-starter](https://github.com/raintree-technology/claude-starter) | Production-ready Claude Code configuration template |
