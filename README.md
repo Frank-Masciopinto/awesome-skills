@@ -426,6 +426,7 @@ Detailed description of the skill's purpose.
 | [email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) | Data-backed email marketing skill: automation flows, deliverability triage, copy de-slopping, AI email design, ESP control via MCP with send-safety gates, compliance and 19 industry playbooks |
 | [bulkpublish-ai-toolkit](https://github.com/azeemkafridi/bulkpublish-ai-toolkit) | Skills for drafting, scheduling, cross-posting and measuring social posts on 15 platforms through the BulkPublish MCP server |
 | [takeout-coupon](https://github.com/moooai/takeout-coupon) | Fetch live Meituan / Ele.me / JD food-delivery promo codes (口令) plus QR claim pages from a public no-auth API |
+| [AltoRank](https://github.com/AltoRank/altorank/tree/main/plugins/altorank/skills/altorank) | Skill + hosted MCP for SEO readiness audits, Search Console, keyword research and drafts into a review queue |
 
 ### AI Agents & LLM Development
 
