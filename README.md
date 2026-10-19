@@ -363,6 +363,7 @@ Detailed description of the skill's purpose.
 | [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 125+ scientific skills for bioinformatics, cheminformatics |
 | [materials-simulation-skills](https://github.com/HeshamFS/materials-simulation-skills) | Computational materials science skills |
 | [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) | Family history and genealogy research |
+| [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) | 280+ research skills: paper writing, journal formats, PRISMA reviews, citation checks against Crossref/OpenAlex/arXiv, and biology, chemistry, physics and ML analysis |
 
 ### Health & Life Sciences
 
