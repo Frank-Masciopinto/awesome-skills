@@ -294,6 +294,7 @@ Detailed description of the skill's purpose.
 | [shipvela-publish](https://github.com/stefanautomateed/shipvela-codex/tree/main/skills/shipvela-publish) | Publish static websites through Shipvela OAuth/MCP with owner approval, status and logs; MIT client skill, requires a hosted-service account (free tier available) |
 | [bestax-skills](https://github.com/allxsmith/bestax/tree/main/skills) | Build React apps with Bestax on Bulma v1: forms, layouts, theming, icons, CSS size, and migration |
 | [supercov](https://github.com/supercorp-ai/supercov/tree/main/plugins/supercov/skills/supercov) | Measure line, branch and MC/DC coverage of the existing tests and write tests for the untested code. Coverage runs locally; the optional quality check sends source to TypeSafe when TYPESAFE_API_KEY is set |
+| [agent-chain-doctor](https://github.com/elfovo/agent-chain-doctor/tree/main/skill) | Diagnoses why a scheduled or unattended agent run (Claude Code under cron, launchd, systemd) stopped or skipped silently: 30 read-only checks on the scheduler state and logs, plus a missed-run alarm |
 
 
 ### Data & Analysis
