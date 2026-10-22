@@ -498,6 +498,7 @@ Detailed description of the skill's purpose.
 | [viral-generator-builder](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/viral-generator-builder) | Building shareable viral generators |
 | [3d-web-experience](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/3d-web-experience) | Three.js, React Three Fiber, WebGL |
 | [interactive-portfolio](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/interactive-portfolio) | Developer/designer portfolios |
+| [VishiATChoudhary/reels](https://github.com/VishiATChoudhary/reels/tree/main/skills/reels-setup) | Spec-driven 9:16 story reels on Remotion, cut to the song's drop; powers [@hey_synapse](https://www.instagram.com/hey_synapse/) |
 
 ### Notion Skills
 
