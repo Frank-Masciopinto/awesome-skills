@@ -177,6 +177,7 @@ Detailed description of the skill's purpose.
 | [anthropics/skills](https://github.com/anthropics/skills) | Official Anthropic collection (document editing, data analysis) |
 | [alapha888/agent-skills-en](https://github.com/alapha888/agent-skills-en) | **5 productivity skills** (MIT): meeting notes, code review checklist, deep research framework, tech writing proofread, git commit messages |
 | [vostride/agent-qa](https://github.com/vostride/agent-qa) | **3 application-QA skills** for authoring natural-language web and mobile tests, debugging failing flows, and triaging run evidence; includes a CLI and MCP server |
+| [uiverify/uiverify](https://github.com/uiverify/uiverify/tree/main/packages/skills) | Visual testing skills: your coding agent sees screenshot diffs of its UI changes, from Storybook, Playwright, Vitest or plain screenshots |
 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Official Anthropic directory of high-quality Claude Code plugins (skills, MCP, commands) |
 | [0xsarwagya/ontoly](https://github.com/0xsarwagya/ontoly) | Deterministic Software Graph, MCP server, and Agent Skills for architecture summaries, route tracing, dependency analysis, configuration usage, and impact analysis |
 | [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) | **47 expert-level skills**: frameworks, templates, code examples for leadership, engineering, product, marketing, sales, data, HR |
@@ -191,6 +192,7 @@ Detailed description of the skill's purpose.
 | [agentic-reserve/blockint-skills](https://github.com/agentic-reserve/blockint-skills) | Public Cursor skill pack for blockchain intelligence (**45 directories**): on-chain research, clustering/attribution, compliance-screening concepts, DeFi/MEV and Solana investigation playbooks, Dune/OSINT/Katana routing, and security-research references |
 | [gmh5225/awesome-ai-security](https://github.com/gmh5225/awesome-ai-security) | **5 AI security skills**: adversarial ML, LLM attacks, AI pentesting, security tooling |
 | [yaklang/hack-skills](https://github.com/yaklang/hack-skills) | **HACK.SKILLS**: offensive-security knowledge base for agents (master + category routers + deep-topic skills) across web/API/auth, OS/AD, mobile, pwn/reverse/crypto, blockchain, AI/LLM security, network pivoting, and forensics; installable via `npx skills add yaklang/hack-skills` |
+| [prosyo-ai/gtm-skill](https://github.com/prosyo-ai/gtm-skill) | **77 go-to-market skills** (MIT): prospecting, cold email, LinkedIn, deliverability, reply handling, deals and RevOps for Claude Code, Codex, Cursor and other agents |
 | [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) | **11 CTF skills**: web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, malware, misc, AI/ML; orchestrator (`solve-challenge`) + writeup; installable via `npx skills add ljagiello/ctf-skills` |
 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | **754 structured cybersecurity skills** for AI agents, mapped to MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, and NIST AI RMF; agentskills.io standard; cross-platform support (Claude Code, Copilot, Codex CLI, Cursor, Gemini CLI, and more) |
 | [VoltAgent/awesome-clawdbot-skills](https://github.com/VoltAgent/awesome-clawdbot-skills) | **565+ Clawdbot skills**: web dev, DevOps, AI/LLMs, marketing, productivity, media, health, smart home |
@@ -294,6 +296,9 @@ Detailed description of the skill's purpose.
 | [shipvela-publish](https://github.com/stefanautomateed/shipvela-codex/tree/main/skills/shipvela-publish) | Publish static websites through Shipvela OAuth/MCP with owner approval, status and logs; MIT client skill, requires a hosted-service account (free tier available) |
 | [bestax-skills](https://github.com/allxsmith/bestax/tree/main/skills) | Build React apps with Bestax on Bulma v1: forms, layouts, theming, icons, CSS size, and migration |
 | [supercov](https://github.com/supercorp-ai/supercov/tree/main/plugins/supercov/skills/supercov) | Measure line, branch and MC/DC coverage of the existing tests and write tests for the untested code. Coverage runs locally; the optional quality check sends source to TypeSafe when TYPESAFE_API_KEY is set |
+| [deed-page](https://github.com/f-o-x11/deed-page-skill/tree/main/skills/deed-page) | Publish an HTML file or static folder to a permanent public deed.page URL with one curl request; no account, and the first publish returns a token for updates and deletes |
+| [agent-chain-doctor](https://github.com/elfovo/agent-chain-doctor/tree/main/skill) | Diagnoses why a scheduled or unattended agent run (Claude Code under cron, launchd, systemd) stopped or skipped silently: 30 read-only checks on the scheduler state and logs, plus a missed-run alarm |
+
 
 
 ### Data & Analysis
@@ -307,7 +312,7 @@ Detailed description of the skill's purpose.
 | [Formo Analytics](https://github.com/getformo/cli/tree/main/skills/formo-analytics) | Query [Formo](https://formo.so) product and onchain analytics through MCP, CLI, or REST |
 | [simple-man](https://github.com/Maksim-Burtsev/simple-man) | Strips praise, recaps and filler from agent answers while keeping every fact you act on; findings carry location and fix, tutorials stay long-form. Benchmarked on 1,793 preregistered live calls, raw records committed |
 | [equibles-research](https://github.com/daniel3303/stock-market-mcp-server/tree/master/skills/equibles-research) | Research US stocks through the [Equibles](https://equibles.com) MCP server: SEC filings, financial statements, earnings call transcripts, insider trades and 13F holdings, each figure cited to its source; works in Claude Code, Codex and other skill loaders; needs an Equibles account (free plan) |
-| [datacircle](https://github.com/waynehamadi/datacircle-plugin/tree/main/skills/datacircle) | The skill for the [Datacircle](https://datacircle.dev) MCP server. It gets a LinkedIn profile from its URL, through Up2Data, HarvestAPI or Fetchin |
+| [datacircle](https://github.com/waynehamadi/datacircle/tree/main/skills/datacircle) | Datacircle lists all the GTM APIs. Download every GTM API plan on Datacircle as one file, with a skill that tells your AI how to query it: [datacircle.dev/SKILL.md](https://datacircle.dev/SKILL.md). |
 | [looot](https://github.com/loootai/looot-skills) | 20 data-job skills for the looot remote MCP server: work email, phone, company enrichment, Google SERP and web page reading from one API key and prepaid balance; paid per call |
 | [invokely-statistics](https://github.com/estevecastells/awesome-copilot/tree/9d96d33228f753cf26d7da5115598da2c19ad900/skills/invokely-statistics) | Query official statistics through Invokely's hosted MCP service, with periods, units, source citations, and comparability notes |
 
@@ -469,6 +474,8 @@ Detailed description of the skill's purpose.
 | [curlshot](https://github.com/SergiuPogor/curlshot-mcp/tree/main/skills/curlshot) | Website screenshots, full-page captures, PDFs and scrolling videos via the CurlShot API or hosted MCP |
 | [solidping-monitoring](https://github.com/fclairamb/solidping-plugin/tree/main/skills/solidping-monitoring) | Uptime checks across 40+ types, incidents, failure diagnosis and status pages via the hosted SolidPing MCP server |
 | [folio-wiki](https://github.com/evergreen-it-dev/folio/tree/main/skills/folio-wiki) | Search, read and carefully update a self-hosted team wiki (pages, data tables, whiteboards) through the Folio MCP server |
+| [cooper-email](https://github.com/cooper-email/cooper-email/tree/main/skills/cooper-email) | Own email inbox for an agent via the Cooper Email API or hosted MCP: send, receive, reply, wait for replies and verification codes |
+
 
 ### Web Performance & SEO
 
@@ -480,6 +487,7 @@ Detailed description of the skill's purpose.
 | [deploying-to-production](https://github.com/nicepkg/awesomeAgentskills/tree/main/deploying-to-production) | GitHub + Vercel deployment automation |
 | [toprank](https://github.com/nowork-studio/toprank) | 9 SEO and Google Ads skills for Claude Code: auditing and optimization |
 | [lognorm](https://github.com/lognorm/lognorm-mcp/tree/main/skills/lognorm) | Work a site's SEO and AI-visibility (GEO) backlog through the hosted LogNorm MCP server: audits, fixes, content, AI-answer tracking |
+| [image-optimization-skill](https://github.com/IgorVaryvoda/image-optimization-skill) | 8 skills for image and video delivery: Core Web Vitals (LCP/CLS), srcset/sizes, AVIF/WebP, lazy loading, HLS and posters, plus Sirv image CDN workflows |
 
 ### Framework Documentation
 
@@ -499,6 +507,7 @@ Detailed description of the skill's purpose.
 | [viral-generator-builder](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/viral-generator-builder) | Building shareable viral generators |
 | [3d-web-experience](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/3d-web-experience) | Three.js, React Three Fiber, WebGL |
 | [interactive-portfolio](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/interactive-portfolio) | Developer/designer portfolios |
+| [VishiATChoudhary/reels](https://github.com/VishiATChoudhary/reels/tree/main/skills/reels-setup) | Spec-driven 9:16 story reels on Remotion, cut to the song's drop; powers [@hey_synapse](https://www.instagram.com/hey_synapse/) |
 
 ### Notion Skills
 
