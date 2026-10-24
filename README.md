@@ -485,6 +485,7 @@ Detailed description of the skill's purpose.
 | [deploying-to-production](https://github.com/nicepkg/awesomeAgentskills/tree/main/deploying-to-production) | GitHub + Vercel deployment automation |
 | [toprank](https://github.com/nowork-studio/toprank) | 9 SEO and Google Ads skills for Claude Code: auditing and optimization |
 | [lognorm](https://github.com/lognorm/lognorm-mcp/tree/main/skills/lognorm) | Work a site's SEO and AI-visibility (GEO) backlog through the hosted LogNorm MCP server: audits, fixes, content, AI-answer tracking |
+| [image-optimization-skill](https://github.com/IgorVaryvoda/image-optimization-skill) | 8 skills for image and video delivery: Core Web Vitals (LCP/CLS), srcset/sizes, AVIF/WebP, lazy loading, HLS and posters, plus Sirv image CDN workflows |
 
 ### Framework Documentation
 
