@@ -475,6 +475,7 @@ Detailed description of the skill's purpose.
 | [tweetclaw](https://github.com/Xquik-dev/tweetclaw) | OpenClaw plugin and npm package for X (Twitter) search, tweet and reply posting, DMs, media, monitoring, webhooks, and MCP tools |
 | [curlshot](https://github.com/SergiuPogor/curlshot-mcp/tree/main/skills/curlshot) | Website screenshots, full-page captures, PDFs and scrolling videos via the CurlShot API or hosted MCP |
 | [solidping-monitoring](https://github.com/fclairamb/solidping-plugin/tree/main/skills/solidping-monitoring) | Uptime checks across 40+ types, incidents, failure diagnosis and status pages via the hosted SolidPing MCP server |
+| [placecall](https://github.com/voygr-tech/placecall/tree/main/skills/placecall) | Real outbound phone calls to US businesses (bookings, appointments, quotes) through IVR menus and holds, with the outcome and transcript returned, via the PlaceCall API or hosted MCP |
 | [folio-wiki](https://github.com/evergreen-it-dev/folio/tree/main/skills/folio-wiki) | Search, read and carefully update a self-hosted team wiki (pages, data tables, whiteboards) through the Folio MCP server |
 | [cooper-email](https://github.com/cooper-email/cooper-email/tree/main/skills/cooper-email) | Own email inbox for an agent via the Cooper Email API or hosted MCP: send, receive, reply, wait for replies and verification codes |
 
